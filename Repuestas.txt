@@ -1,0 +1,8 @@
+¿Qué facilidades nos proporciona Django?
+Permite poder integrar todas el back-end con el front-end de forma rapida e incorporando una gran cantidad de librerias.
+
+Con relación al levantamiento de un servidor. ¿Existe una forma de realizarlo con Python y sin Django?
+Si, es posible importando un http.server
+¿Qué desventajas nos trae este tipo de proyectos sin Django?
+
+Hace que el desarrollo sea mucho mas complejo, siendo necesario mucho mas script y ademas sin una estructura clara para el desarrollo.
